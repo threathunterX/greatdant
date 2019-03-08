@@ -1,0 +1,6783 @@
+[
+  {
+    "app": "nebula",
+    "name": "ORDER_CANCEL",
+    "type": "base",
+    "derived": false,
+    "properties": [
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "sid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "did",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "platform",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "page",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "host",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_stem",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_query",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "method",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "status",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "cookie",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "useragent",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "xforward",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_time",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer_hit",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "notices",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_city",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_province",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "order_id",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "uid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "merchant",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "cancel_reason",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "transaction_id",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_CANCEL"
+          ],
+          "hashcode": 0
+        },
+        "name": "result",
+        "type": "string"
+      }
+    ],
+    "expire": -1,
+    "remark": "订单-取消"
+  },
+  {
+    "app": "nebula",
+    "name": "ORDER_SUBMIT",
+    "type": "base",
+    "derived": false,
+    "properties": [
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "sid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "did",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "platform",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "page",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "host",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_stem",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_query",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "method",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "status",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "cookie",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "useragent",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "xforward",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_time",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer_hit",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "notices",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_city",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_province",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "order_id",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "uid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "product_id",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "product_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "product_attribute",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "product_count",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "product_total_count",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "merchant",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "order_money_amount",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "order_coupon_amount",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "order_point_amount",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "transaction_id",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "receiver_mobile",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "receiver_address_country",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "receiver_address_province",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "receiver_address_city",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "receiver_address_detail",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "user_name",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ORDER_SUBMIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "result",
+        "type": "string"
+      }
+    ],
+    "expire": -1,
+    "remark": "订单-提交"
+  },
+  {
+    "app": "nebula",
+    "name": "ACCOUNT_CERTIFICATION",
+    "type": "base",
+    "derived": false,
+    "properties": [
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_CERTIFICATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_CERTIFICATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "sid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_CERTIFICATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "did",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_CERTIFICATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "platform",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_CERTIFICATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "page",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_CERTIFICATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_CERTIFICATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_CERTIFICATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_CERTIFICATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_CERTIFICATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_CERTIFICATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_CERTIFICATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_CERTIFICATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_CERTIFICATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_CERTIFICATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "host",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_CERTIFICATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_stem",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_CERTIFICATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_query",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_CERTIFICATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_CERTIFICATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "method",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_CERTIFICATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "status",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_CERTIFICATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "cookie",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_CERTIFICATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "useragent",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_CERTIFICATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "xforward",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_CERTIFICATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_time",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_CERTIFICATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_CERTIFICATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer_hit",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_CERTIFICATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "notices",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_CERTIFICATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_city",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_CERTIFICATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_province",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_CERTIFICATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "uid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_CERTIFICATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "person_id",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_CERTIFICATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "user_name",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_CERTIFICATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "result",
+        "type": "string"
+      }
+    ],
+    "expire": -1,
+    "remark": "账号-实名验证"
+  },
+  {
+    "app": "nebula",
+    "name": "ACCOUNT_TOKEN_CHANGE",
+    "type": "base",
+    "derived": false,
+    "properties": [
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "sid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "did",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "platform",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "page",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "host",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_stem",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_query",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "method",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "status",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "cookie",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "useragent",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "xforward",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_time",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer_hit",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "notices",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_city",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_province",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "uid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "old_token",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "new_token",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "token_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "captcha",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_TOKEN_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "result",
+        "type": "string"
+      }
+    ],
+    "expire": -1,
+    "remark": "账号-安全凭证修改"
+  },
+  {
+    "app": "nebula",
+    "name": "HTTP_DYNAMIC_DELAY",
+    "type": "base",
+    "derived": false,
+    "properties": [
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC_DELAY"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC_DELAY"
+          ],
+          "hashcode": 0
+        },
+        "name": "sid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC_DELAY"
+          ],
+          "hashcode": 0
+        },
+        "name": "uid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC_DELAY"
+          ],
+          "hashcode": 0
+        },
+        "name": "did",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC_DELAY"
+          ],
+          "hashcode": 0
+        },
+        "name": "platform",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC_DELAY"
+          ],
+          "hashcode": 0
+        },
+        "name": "page",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC_DELAY"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC_DELAY"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC_DELAY"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC_DELAY"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC_DELAY"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC_DELAY"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC_DELAY"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC_DELAY"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC_DELAY"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC_DELAY"
+          ],
+          "hashcode": 0
+        },
+        "name": "host",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC_DELAY"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_stem",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC_DELAY"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_query",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC_DELAY"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC_DELAY"
+          ],
+          "hashcode": 0
+        },
+        "name": "method",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC_DELAY"
+          ],
+          "hashcode": 0
+        },
+        "name": "status",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC_DELAY"
+          ],
+          "hashcode": 0
+        },
+        "name": "cookie",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC_DELAY"
+          ],
+          "hashcode": 0
+        },
+        "name": "useragent",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC_DELAY"
+          ],
+          "hashcode": 0
+        },
+        "name": "xforward",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC_DELAY"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_time",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC_DELAY"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC_DELAY"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer_hit",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC_DELAY"
+          ],
+          "hashcode": 0
+        },
+        "name": "notices",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC_DELAY"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_city",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC_DELAY"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_province",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC_DELAY"
+          ],
+          "hashcode": 0
+        },
+        "name": "delay_strategy",
+        "type": "string"
+      }
+    ],
+    "expire": -1,
+    "remark": "http动态资源访问"
+  },
+  {
+    "app": "nebula",
+    "name": "TRANSACTION_DEPOSIT",
+    "type": "base",
+    "derived": false,
+    "properties": [
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "sid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "did",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "platform",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "page",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "host",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_stem",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_query",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "method",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "status",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "cookie",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "useragent",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "xforward",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_time",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer_hit",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "notices",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_city",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_province",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "uid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "transaction_id",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "deposit_amount",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "card_number",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "user_name",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "account_balance_before",
+        "type": "double"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_DEPOSIT"
+          ],
+          "hashcode": 0
+        },
+        "name": "result",
+        "type": "string"
+      }
+    ],
+    "expire": -1,
+    "remark": "支付-充值"
+  },
+  {
+    "app": "nebula",
+    "name": "TRANSACTION_WITHDRAW",
+    "type": "base",
+    "derived": false,
+    "properties": [
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "sid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "did",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "platform",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "page",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "host",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_stem",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_query",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "method",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "status",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "cookie",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "useragent",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "xforward",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_time",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer_hit",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "notices",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_city",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_province",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "uid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "transaction_id",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "withdraw_amount",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "withdraw_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "card_number",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "user_name",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "account_balance_before",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_WITHDRAW"
+          ],
+          "hashcode": 0
+        },
+        "name": "result",
+        "type": "string"
+      }
+    ],
+    "expire": -1,
+    "remark": "支付-取现"
+  },
+  {
+    "app": "nebula",
+    "name": "TRANSACTION_BANKCRD_UNBIND",
+    "type": "base",
+    "derived": false,
+    "properties": [
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "sid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "did",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "platform",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "page",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "host",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_stem",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_query",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "method",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "status",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "cookie",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "useragent",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "xforward",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_time",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer_hit",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "notices",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_city",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_province",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "uid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "card_number",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "card_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "bank_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "result",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_UNBIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "captcha",
+        "type": "string"
+      }
+    ],
+    "expire": -1,
+    "remark": "支付-解绑"
+  },
+  {
+    "app": "nebula",
+    "name": "ACCOUNT_LOGIN",
+    "type": "base",
+    "derived": false,
+    "properties": [
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "sid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "did",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "platform",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "page",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "host",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_stem",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_query",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "method",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "status",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "cookie",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "useragent",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "xforward",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_time",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer_hit",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "notices",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_city",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_province",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "uid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "login_verification_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "password",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "captcha",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "result",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "remember_me",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_LOGIN"
+          ],
+          "hashcode": 0
+        },
+        "name": "login_channel",
+        "type": "string"
+      }
+    ],
+    "expire": -1,
+    "remark": "账号-登录"
+  },
+  {
+    "app": "nebula",
+    "name": "HTTP_STATIC",
+    "type": "base",
+    "derived": false,
+    "properties": [
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_STATIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_STATIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "sid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_STATIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "uid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_STATIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "did",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_STATIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "platform",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_STATIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "page",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_STATIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_STATIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_STATIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_STATIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_STATIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_STATIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_STATIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_STATIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_STATIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_STATIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "host",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_STATIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_stem",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_STATIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_query",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_STATIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_STATIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "method",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_STATIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "status",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_STATIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "cookie",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_STATIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "useragent",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_STATIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "xforward",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_STATIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_time",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_STATIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_STATIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer_hit",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_STATIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "notices",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_STATIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_city",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_STATIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_province",
+        "type": "string"
+      }
+    ],
+    "expire": -1,
+    "remark": "静态资源请求"
+  },
+  {
+    "app": "nebula",
+    "name": "ACCOUNT_REFERRALCODE_CREATE",
+    "type": "base",
+    "derived": false,
+    "properties": [
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REFERRALCODE_CREATE"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REFERRALCODE_CREATE"
+          ],
+          "hashcode": 0
+        },
+        "name": "sid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REFERRALCODE_CREATE"
+          ],
+          "hashcode": 0
+        },
+        "name": "did",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REFERRALCODE_CREATE"
+          ],
+          "hashcode": 0
+        },
+        "name": "platform",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REFERRALCODE_CREATE"
+          ],
+          "hashcode": 0
+        },
+        "name": "page",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REFERRALCODE_CREATE"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REFERRALCODE_CREATE"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REFERRALCODE_CREATE"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REFERRALCODE_CREATE"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REFERRALCODE_CREATE"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REFERRALCODE_CREATE"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REFERRALCODE_CREATE"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REFERRALCODE_CREATE"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REFERRALCODE_CREATE"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REFERRALCODE_CREATE"
+          ],
+          "hashcode": 0
+        },
+        "name": "host",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REFERRALCODE_CREATE"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_stem",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REFERRALCODE_CREATE"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_query",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REFERRALCODE_CREATE"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REFERRALCODE_CREATE"
+          ],
+          "hashcode": 0
+        },
+        "name": "method",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REFERRALCODE_CREATE"
+          ],
+          "hashcode": 0
+        },
+        "name": "status",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REFERRALCODE_CREATE"
+          ],
+          "hashcode": 0
+        },
+        "name": "cookie",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REFERRALCODE_CREATE"
+          ],
+          "hashcode": 0
+        },
+        "name": "useragent",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REFERRALCODE_CREATE"
+          ],
+          "hashcode": 0
+        },
+        "name": "xforward",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REFERRALCODE_CREATE"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_time",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REFERRALCODE_CREATE"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REFERRALCODE_CREATE"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer_hit",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REFERRALCODE_CREATE"
+          ],
+          "hashcode": 0
+        },
+        "name": "notices",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REFERRALCODE_CREATE"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_city",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REFERRALCODE_CREATE"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_province",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REFERRALCODE_CREATE"
+          ],
+          "hashcode": 0
+        },
+        "name": "uid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REFERRALCODE_CREATE"
+          ],
+          "hashcode": 0
+        },
+        "name": "referralcode",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REFERRALCODE_CREATE"
+          ],
+          "hashcode": 0
+        },
+        "name": "code_type",
+        "type": "string"
+      }
+    ],
+    "expire": -1,
+    "remark": "账号-生成推荐码"
+  },
+  {
+    "app": "nebula",
+    "name": "TRANSACTION_ESCROW",
+    "type": "base",
+    "derived": false,
+    "properties": [
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "sid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "did",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "platform",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "page",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "host",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_stem",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_query",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "method",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "status",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "cookie",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "useragent",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "xforward",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_time",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer_hit",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "notices",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_city",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_province",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "uid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "transaction_id",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "escrow_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "escrow_account",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "pay_amount",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_ESCROW"
+          ],
+          "hashcode": 0
+        },
+        "name": "result",
+        "type": "string"
+      }
+    ],
+    "expire": -1,
+    "remark": "支付-第三方支付"
+  },
+  {
+    "app": "nebula",
+    "name": "ACCOUNT_PW_CHANGE",
+    "type": "base",
+    "derived": false,
+    "properties": [
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "sid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "did",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "platform",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "page",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "host",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_stem",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_query",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "method",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "status",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "cookie",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "useragent",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "xforward",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_time",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer_hit",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "notices",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_city",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_province",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "uid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "old_password",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "new_password",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "verification_token",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "verification_token_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "captcha",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_PW_CHANGE"
+          ],
+          "hashcode": 0
+        },
+        "name": "result",
+        "type": "string"
+      }
+    ],
+    "expire": -1,
+    "remark": "账号-密码修改"
+  },
+  {
+    "app": "nebula",
+    "name": "TRANSACTION_BANKCRD_BIND",
+    "type": "base",
+    "derived": false,
+    "properties": [
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "sid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "did",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "platform",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "page",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "host",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_stem",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_query",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "method",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "status",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "cookie",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "useragent",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "xforward",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_time",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer_hit",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "notices",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_city",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_province",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "uid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "card_number",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "card_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "bank_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "result",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "card_realname",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "card_mobile",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "TRANSACTION_BANKCRD_BIND"
+          ],
+          "hashcode": 0
+        },
+        "name": "captcha",
+        "type": "string"
+      }
+    ],
+    "expire": -1,
+    "remark": "支付-绑卡"
+  },
+  {
+    "app": "nebula",
+    "name": "HTTP_DYNAMIC",
+    "type": "base",
+    "derived": false,
+    "properties": [
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "sid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "uid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "did",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "platform",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "page",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "host",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_stem",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_query",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "method",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "status",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "cookie",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "useragent",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "xforward",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_time",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer_hit",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "notices",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_city",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "HTTP_DYNAMIC"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_province",
+        "type": "string"
+      }
+    ],
+    "expire": -1,
+    "remark": "动态资源请求"
+  },
+  {
+    "app": "nebula",
+    "name": "ACCOUNT_REGISTRATION",
+    "type": "base",
+    "derived": false,
+    "properties": [
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "sid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "did",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "platform",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "page",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "host",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_stem",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_query",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "method",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "status",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "cookie",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "useragent",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "xforward",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_time",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer_hit",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "notices",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_city",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_province",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "uid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "password",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "register_verification_token",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "register_verification_token_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "captcha",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "result",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "user_name",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "register_channel",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACCOUNT_REGISTRATION"
+          ],
+          "hashcode": 0
+        },
+        "name": "invite_code",
+        "type": "string"
+      }
+    ],
+    "expire": -1,
+    "remark": "账号-注册"
+  },
+  {
+    "app": "nebula",
+    "name": "ACTIVITY_DO",
+    "type": "base",
+    "derived": false,
+    "properties": [
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "sid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "did",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "platform",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "page",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "c_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_ip",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_port",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_bytes",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_body",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "s_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "host",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_stem",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "uri_query",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "method",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "status",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "cookie",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "useragent",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "xforward",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_time",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "request_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "referer_hit",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "notices",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_city",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "geo_province",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "uid",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "activity_name",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "activity_type",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "activity_gain_count",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "activity_gain_amount",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "activity_pay_amount",
+        "type": "long"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "user_name",
+        "type": "string"
+      },
+      {
+        "identifier": {
+          "keys": [
+            "nebula",
+            "ACTIVITY_DO"
+          ],
+          "hashcode": 0
+        },
+        "name": "result",
+        "type": "string"
+      }
+    ],
+    "expire": -1,
+    "remark": "营销-参加活动"
+  }
+]
