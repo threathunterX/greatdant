@@ -7,7 +7,7 @@ import junit.framework.Assert;
 import java.io.File;
 
 /**
- * Created by yy on 17-10-17.
+ * 
  */
 public class FacadeTest {
     public void testLogsCreateContext(){

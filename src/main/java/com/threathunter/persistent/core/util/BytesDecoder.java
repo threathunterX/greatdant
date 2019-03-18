@@ -6,7 +6,7 @@ import com.google.common.primitives.Longs;
 import java.io.UnsupportedEncodingException;
 
 /**
- * Created by daisy on 16-4-9.
+ * 
  */
 public class BytesDecoder {
 

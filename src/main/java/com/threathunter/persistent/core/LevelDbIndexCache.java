@@ -15,7 +15,7 @@ import org.slf4j.LoggerFactory;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by daisy on 17/7/17.
+ * 
  */
 public class LevelDbIndexCache {
     private static final Logger LOGGER = LoggerFactory.getLogger(LevelDbIndexCache.class);

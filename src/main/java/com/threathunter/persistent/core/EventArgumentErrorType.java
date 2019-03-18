@@ -1,7 +1,7 @@
 package com.threathunter.persistent.core;
 
 /**
- * Created by yy on 17-8-23.
+ * 
  */
 public enum EventArgumentErrorType {
   NO_ERROR(true, ""), COLS(false, "cols empty"), TERMS(false, "terms empty"), NAME(false,

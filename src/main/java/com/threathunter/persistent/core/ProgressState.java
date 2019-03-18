@@ -1,7 +1,7 @@
 package com.threathunter.persistent.core;
 
 /**
- * Created by yy on 17-8-22.
+ * 
  */
 public enum ProgressState {
   START("start"), PROGRESSING("process"),WAITING("wait"), CANCELLING("wait"), CANCELLED("wait"), END("success"), ERROR("failed");

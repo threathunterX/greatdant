@@ -4,7 +4,7 @@ package com.threathunter.mock.simulator;
 import com.threathunter.mock.util.PropertyUtil;
 
 /**
- * Created by yy on 17-8-8.
+ * 
  */
 public class AccountLoginEventsAction extends CommonEventsAction {
 

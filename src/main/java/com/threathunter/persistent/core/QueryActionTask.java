@@ -12,7 +12,7 @@ import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingDeque;
 
 /**
- * Created by yy on 17-8-22.
+ * 
  */
 public class QueryActionTask implements Runnable {
 

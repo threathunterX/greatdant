@@ -32,7 +32,7 @@ import static com.threathunter.persistent.core.EventPersistCommon.ensure_dir;
 
 
 /**
- * Created by daisy on 16-4-7.
+ * 
  *
  * Maintain a cache to write event record and index to files.
  */

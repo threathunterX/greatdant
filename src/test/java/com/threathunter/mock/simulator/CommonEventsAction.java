@@ -10,7 +10,7 @@ import java.util.List;
 import static com.threathunter.mock.util.PropertyUtil.collect;
 
 /**
- * Created by yy on 17-8-8.
+ * 
  */
 public abstract class CommonEventsAction implements EventsAction {
 

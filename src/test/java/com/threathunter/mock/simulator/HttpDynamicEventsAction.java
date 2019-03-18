@@ -4,7 +4,7 @@ import com.threathunter.mock.util.PropertyUtil;
 import com.threathunter.model.Event;
 
 /**
- * Created by yy on 17-8-7.
+ * 
  */
 public class HttpDynamicEventsAction extends CommonEventsAction {
 

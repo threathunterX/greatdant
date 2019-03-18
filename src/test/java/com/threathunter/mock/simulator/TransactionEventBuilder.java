@@ -9,7 +9,7 @@ import java.util.Map;
 import static com.threathunter.mock.util.PropertyUtil.*;
 
 /**
- * Created by yy on 17-8-11.
+ * 
  */
 public class TransactionEventBuilder extends CommonEventBuilder {
 

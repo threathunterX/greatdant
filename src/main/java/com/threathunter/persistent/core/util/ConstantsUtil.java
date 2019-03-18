@@ -6,7 +6,7 @@ import org.slf4j.LoggerFactory;
 import java.io.UnsupportedEncodingException;
 
 /**
- * Created by yy on 17-10-12.
+ * 
  */
 public class ConstantsUtil {
     private static Logger logger= LoggerFactory.getLogger(ConstantsUtil.class);

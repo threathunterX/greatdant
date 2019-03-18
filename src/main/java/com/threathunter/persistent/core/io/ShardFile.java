@@ -22,7 +22,7 @@ import java.util.Map;
 import static com.threathunter.persistent.core.util.BRAFileHelper.getFieldBytes;
 
 /**
- * Created by yy on 17-9-15.
+ * 
  */
 public class ShardFile {
 

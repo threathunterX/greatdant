@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by daisy on 16-4-7.
+ * 
  */
 public interface EventSchema {
 

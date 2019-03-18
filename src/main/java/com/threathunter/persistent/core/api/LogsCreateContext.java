@@ -6,7 +6,7 @@ import com.threathunter.persistent.core.io.EventOfflineWriter;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * Created by yy on 17-10-17.
+ * 
  */
 public class LogsCreateContext {
     private  final EventOfflineWriter writer;

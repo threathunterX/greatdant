@@ -1,7 +1,7 @@
 package com.threathunter.mock.simulator;
 
 /**
- * Created by yy on 17-8-7.
+ * 
  */
 public interface EventsActionVisitor {
 

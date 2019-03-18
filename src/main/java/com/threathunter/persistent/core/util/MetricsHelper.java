@@ -8,7 +8,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by daisy on 16/6/7.
+ * 
  */
 public class MetricsHelper {
     private static final MetricsHelper INSTANCE = new MetricsHelper();

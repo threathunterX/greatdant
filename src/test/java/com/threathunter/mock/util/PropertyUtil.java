@@ -8,7 +8,7 @@ import java.util.Random;
 
 
 /**
- * Created by yy on 17-8-7.
+ * 
  */
 public class PropertyUtil {
 

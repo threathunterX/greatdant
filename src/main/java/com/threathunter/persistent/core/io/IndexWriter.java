@@ -1,7 +1,7 @@
 package com.threathunter.persistent.core.io;
 
 /**
- * Created by daisy on 16-4-7.
+ * 
  */
 public interface IndexWriter {
 

@@ -7,7 +7,7 @@ import static com.threathunter.mock.util.PropertyUtil.getRandomMobile;
 import static com.threathunter.mock.util.PropertyUtil.getRandomStr;
 
 /**
- * Created by yy on 17-8-9.
+ * 
  */
 public class OrderSubmitEventBuilder extends CommonEventBuilder {
 

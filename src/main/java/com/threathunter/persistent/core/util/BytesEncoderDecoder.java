@@ -3,7 +3,7 @@ package com.threathunter.persistent.core.util;
 import java.nio.charset.Charset;
 
 /**
- * Created by daisy on 16-4-6.
+ * 
  */
 public class BytesEncoderDecoder {
     private static final Charset DEFAULT_CHARSET = Charset.forName("UTF-8");

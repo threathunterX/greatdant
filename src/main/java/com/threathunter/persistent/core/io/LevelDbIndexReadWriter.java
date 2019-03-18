@@ -26,7 +26,7 @@ import java.util.Map;
 import static org.iq80.leveldb.impl.Iq80DBFactory.factory;
 
 /**
- * Created by daisy on 16-4-7.
+ * 
  *
  * In implementation, we will split index file per hour, because leveldb can just
  * allow one process to access the db at a time.

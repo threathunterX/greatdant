@@ -5,7 +5,7 @@ import com.threathunter.model.Event;
 import java.util.Map;
 
 /**
- * Created by yy on 17-8-7.
+ * 
  */
 public interface EventBuilder {
 

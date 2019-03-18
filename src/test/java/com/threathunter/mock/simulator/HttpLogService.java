@@ -12,7 +12,7 @@ import org.slf4j.LoggerFactory;
 import java.util.List;
 
 /**
- * Created by yy on 17-8-8.
+ * 
  */
 public class HttpLogService implements EventsActionVisitor {
 

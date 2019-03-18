@@ -3,7 +3,7 @@ package com.threathunter.persistent.core.io;
 import java.util.Map;
 
 /**
- * Created by daisy on 16/6/3.
+ * 
  */
 public interface IndexReader {
     /**

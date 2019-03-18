@@ -13,7 +13,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 /**
- * Created by yy on 17-8-22.
+ * 
  */
 public class QueryActionTaskManager {
 

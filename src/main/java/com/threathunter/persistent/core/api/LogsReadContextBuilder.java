@@ -7,7 +7,7 @@ import com.threathunter.persistent.core.io.QueryCSVWriter;
 import java.util.Map;
 
 /**
- * Created by yy on 17-9-18.
+ * 
  */
 public class LogsReadContextBuilder {
 

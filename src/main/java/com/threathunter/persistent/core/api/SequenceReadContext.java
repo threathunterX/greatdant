@@ -11,7 +11,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * Created by yy on 17-11-3.
+ * 
  */
 public class SequenceReadContext {
 

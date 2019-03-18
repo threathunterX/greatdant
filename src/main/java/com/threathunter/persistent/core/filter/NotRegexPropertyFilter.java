@@ -3,7 +3,7 @@ package com.threathunter.persistent.core.filter;
 import java.util.regex.Pattern;
 
 /**
- * Created by daisy on 17/7/14.
+ * 
  */
 public class NotRegexPropertyFilter implements PropertyFilter {
     private String param;

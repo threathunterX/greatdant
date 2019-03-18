@@ -9,7 +9,7 @@ import java.util.Map;
 import java.util.PriorityQueue;
 
 /**
- * Created by yy on 17-9-15.
+ * 
  */
 public class HourDirLogsRead implements LogsRead {
 

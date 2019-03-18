@@ -14,7 +14,7 @@ import java.util.Map;
 import java.util.PriorityQueue;
 
 /**
- * Created by yy on 17-11-3.
+ * 
  */
 public class HourDirSequeceRead {
 

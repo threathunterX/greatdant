@@ -15,7 +15,7 @@ import java.util.Map;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * Created by yy on 17-9-15.
+ * 
  */
 public class LogsReadContext {
 

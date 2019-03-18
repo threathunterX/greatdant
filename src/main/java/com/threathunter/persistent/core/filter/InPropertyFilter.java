@@ -3,7 +3,7 @@ package com.threathunter.persistent.core.filter;
 import java.util.Set;
 
 /**
- * Created by daisy on 17/7/14.
+ * 
  */
 public class InPropertyFilter implements PropertyFilter {
 

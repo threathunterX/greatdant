@@ -3,7 +3,7 @@ package com.threathunter.persistent.core;
 import java.util.Map;
 
 /**
- * Created by yy on 17-9-15.
+ * 
  */
 public class KVRow implements Comparable<KVRow> {
 

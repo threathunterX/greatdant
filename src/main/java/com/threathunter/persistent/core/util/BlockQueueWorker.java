@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.concurrent.BlockingQueue;
 
 /**
- * Created by daisy on 16/4/27.
+ * 
  */
 public abstract class BlockQueueWorker<E> extends Thread {
     private final BlockingQueue<E> cache;

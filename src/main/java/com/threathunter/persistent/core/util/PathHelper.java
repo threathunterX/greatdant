@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * Created by daisy on 16/6/28.
+ * 
  */
 public class PathHelper {
     public static String getModulePath() {

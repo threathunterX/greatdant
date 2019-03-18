@@ -11,7 +11,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by daisy on 17/7/18.
+ * 
  */
 public class QueryCSVWriter implements Closeable {
 

@@ -6,7 +6,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * Created by daisy on 17/1/11.
+ * 
  */
 public class SystemClock {
     private static final Logger LOGGER = LoggerFactory.getLogger(SystemClock.class);
